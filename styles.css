@@ -1,0 +1,44 @@
+body{
+	background-image: url(images/bodybg.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	}
+
+h1{
+	background: linear-gradient(to right, #000000, #002F5B, #4E92D2, #FFFFFF, #007C05, #FFE700, #FFA600, #FF4D00);
+	text-align: center;
+	font-family: 'Fredericka the Great', cursive;
+	font-size: 50px;
+	padding-right: 50px;
+}
+
+p{
+	background-color: rgba(0,0,0,0.55);
+	border-color: rgba(255,255,255,0.3);
+	border-style: solid;
+	color: white;
+}
+
+h3{
+	border-color: rgba(255,255,255,0.3);
+	border-style: solid;
+	background-color: rgba(0,0,0,0.55);
+	color: white;
+}
+
+img{
+	border-radius: 25px;
+	border-color: rgb(145, 139, 25);
+	border-style: solid;
+	box-shadow: 20px 19px 20px #b6d89652;
+}
+
+ul{
+	float: right;
+	background-color: rgba(0,0,0,0.55);
+	color: white;
+	list-style: none;
+	border-color: rgba(255,255,255,0.3);
+	border-style: solid;
+}
