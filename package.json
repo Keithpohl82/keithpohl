@@ -1,0 +1,27 @@
+{
+  "name": "keithpohl",
+  "version": "1.0.0",
+  "description": "My personal portfolio",
+  "main": "scripts.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "ibm-watson": "^4.1.0",
+    "lodash": "^4.17.11",
+    "node": "^12.1.0",
+    "react": "^16.8.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keithpohl82/keithpohl.git"
+  },
+  "author": "Keith Pohl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keithpohl82/keithpohl/issues"
+  },
+  "homepage": "https://github.com/Keithpohl82/keithpohl#readme"
+}

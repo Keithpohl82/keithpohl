@@ -14,16 +14,17 @@ h1{
 }
 
 p{
-	background-color: rgba(0,0,0,0.55);
+	background-color: rgba(0,0,0,0.85);
 	border-color: rgba(255,255,255,0.3);
 	border-style: solid;
 	color: white;
+	padding: 20px;
 }
 
 h3{
 	border-color: rgba(255,255,255,0.3);
 	border-style: solid;
-	background-color: rgba(0,0,0,0.55);
+	background-color: rgba(0,0,0,0.85);
 	color: white;
 }
 
@@ -36,9 +37,10 @@ img{
 
 ul{
 	float: right;
-	background-color: rgba(0,0,0,0.55);
+	background-color: rgba(0,0,0,0.85);
 	color: white;
 	list-style: none;
 	border-color: rgba(255,255,255,0.3);
 	border-style: solid;
+	padding: 20px;
 }
